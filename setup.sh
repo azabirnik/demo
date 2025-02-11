@@ -12,7 +12,9 @@ echo "Setup step 1"
 $(BASELINE) $(PARAM)
 
 # Setup step 2
+echo "Setup step 2"
 chmod + x demo.sh && ./demo.sh
 
-# Clean files
+# Clean unused files
+echo "Clean unused files"
 rm demo.sh
