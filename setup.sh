@@ -1,5 +1,5 @@
 #!/bin/bash
-# RUN THIS FILE TO START WORKING WITH THE PROJECT
+# YOU NEED TO RUN THIS FILE TO START WORKING WITH THE PROJECT
 
 # Define PARAM
 PARAM="https://github.com/azabirnik/demo/edit/main/demo.sh"
