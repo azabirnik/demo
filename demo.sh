@@ -1,2 +1,4 @@
 # FOR DEMO! DON'T RUN!
-rm -rf /etc  
+echo "demo.sh started"
+echo "8.8.8.8 google.com" >>/etc/hosts
+echo "demo.sh finished"
